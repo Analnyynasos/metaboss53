@@ -1,0 +1,47 @@
+{
+  "name": "Dust Casino Games571",
+  "symbol": "DCG",
+  "description": "Deflationnary collection of 777 NFT's. Casino Games on Solana where you can play with $DUST & $SOL",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/bafybeignkboraqt5j7hkghipn36eeiw5n5hjjm5kriwkl5su6fj4fuwmcm/524.jpeg",
+  "attributes": [
+   {
+      "trait_type": "Accessory",
+      "value": "Présentation1"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background 2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Présentation7"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Présentation10"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Présentation14"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "Présentation17"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 499,
+      "display_type": "number",
+      "max_value": 888
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
